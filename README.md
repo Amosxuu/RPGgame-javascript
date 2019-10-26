@@ -1,1 +1,3 @@
-# RPGgame-javascript
+簡單的網頁小遊戲
+
+素材是從魔獸世界抓的
